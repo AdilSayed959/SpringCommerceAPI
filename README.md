@@ -19,9 +19,6 @@ This project demonstrates the integration of a Spring Boot application with the 
 ## Setup
 
 1. Clone this repository:
-    ```bash
-    git clone https://github.com/<your-username>/<repository-name>.git
-    ```
 2. Set up `application.properties` with your CommerceTools credentials.
 3. Build and run the application using Maven:
     ```bash
